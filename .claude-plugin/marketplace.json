@@ -1,0 +1,114 @@
+{
+  "name": "skaild",
+  "owner": "drophit/skaild-marketplace",
+  "plugins": [
+    {
+      "name": "skaild-start-4.6",
+      "description": "Free skAIld foundation: session start, Karpathy guidelines, auto-changelog (Opus 4.6)",
+      "source": {
+        "source": "github",
+        "repo": "drophit/skaild-start",
+        "ref": "v4.6"
+      }
+    },
+    {
+      "name": "skaild-start-4.7",
+      "description": "Free skAIld foundation: session start, Karpathy guidelines, auto-changelog (Opus 4.7)",
+      "source": {
+        "source": "github",
+        "repo": "drophit/skaild-start",
+        "ref": "v4.7"
+      }
+    },
+    {
+      "name": "skaild-start",
+      "description": "Free skAIld foundation: session start, Karpathy guidelines, auto-changelog (Opus 4.8)",
+      "source": {
+        "source": "github",
+        "repo": "drophit/skaild-start",
+        "ref": "v4.8"
+      }
+    },
+    {
+      "name": "skaild-plan-4.6",
+      "description": "skAIld planning workflow for Claude Code (Opus 4.6)",
+      "source": {
+        "source": "github",
+        "repo": "drophit/skaild-plan",
+        "ref": "v4.6"
+      }
+    },
+    {
+      "name": "skaild-plan-4.7",
+      "description": "skAIld planning workflow for Claude Code (Opus 4.7)",
+      "source": {
+        "source": "github",
+        "repo": "drophit/skaild-plan",
+        "ref": "v4.7"
+      }
+    },
+    {
+      "name": "skaild-plan",
+      "description": "skAIld planning workflow for Claude Code (Opus 4.8)",
+      "source": {
+        "source": "github",
+        "repo": "drophit/skaild-plan",
+        "ref": "v4.8"
+      }
+    },
+    {
+      "name": "skaild-build-4.6",
+      "description": "skAIld build + PR workflow for Claude Code (Opus 4.6)",
+      "source": {
+        "source": "github",
+        "repo": "drophit/skaild-build",
+        "ref": "v4.6"
+      }
+    },
+    {
+      "name": "skaild-build-4.7",
+      "description": "skAIld build + PR workflow for Claude Code (Opus 4.7)",
+      "source": {
+        "source": "github",
+        "repo": "drophit/skaild-build",
+        "ref": "v4.7"
+      }
+    },
+    {
+      "name": "skaild-build",
+      "description": "skAIld build + PR workflow for Claude Code (Opus 4.8)",
+      "source": {
+        "source": "github",
+        "repo": "drophit/skaild-build",
+        "ref": "v4.8"
+      }
+    },
+    {
+      "name": "skaild-ship-4.6",
+      "description": "skAIld ship + deploy workflow for Claude Code (Opus 4.6)",
+      "source": {
+        "source": "github",
+        "repo": "drophit/skaild-ship",
+        "ref": "v4.6"
+      }
+    },
+    {
+      "name": "skaild-ship-4.7",
+      "description": "skAIld ship + deploy workflow for Claude Code (Opus 4.7)",
+      "source": {
+        "source": "github",
+        "repo": "drophit/skaild-ship",
+        "ref": "v4.7"
+      }
+    },
+    {
+      "name": "skaild-ship",
+      "description": "skAIld ship + deploy workflow for Claude Code (Opus 4.8)",
+      "source": {
+        "source": "github",
+        "repo": "drophit/skaild-ship",
+        "ref": "v4.8"
+      }
+    }
+  ]
+}
