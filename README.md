@@ -19,8 +19,8 @@ Every plugin includes the **foundation trio** — `/start` (session banner + wor
 | Plugin | Price | Adds |
 |---|---|---|
 | `skaild-start` | free | the foundation trio only |
-| `skaild-plan` | $3.99/mo | `/quick-plan`, `/start-planning` |
-| `skaild-build` | $3.99/mo | `/start-coding`, `/serve-worktree`, `/review-pr`, `/team-review`, `/create-pr`, `/merge-approved` |
-| `skaild-ship` | $3.99/mo | `/pre-deploy`, `/light-deploy`, `/hotfix`, `/handoff`, `/close-session` |
+| `skaild-plan` | [Click for pricing](https://skaild.com/#pricing) | `/quick-plan`, `/start-planning` |
+| `skaild-build` | [Click for pricing](https://skaild.com/#pricing) | `/start-coding`, `/serve-worktree`, `/review-pr`, `/team-review`, `/create-pr`, `/merge-approved` |
+| `skaild-ship` | [Click for pricing](https://skaild.com/#pricing) | `/pre-deploy`, `/light-deploy`, `/hotfix`, `/handoff`, `/close-session` |
 
-The **Complete Bundle** ($9.97/mo) grants plan + build + ship. Every plugin auto-installs its required dependencies (`superpowers`, `commit-commands`) on install.
+The **Complete Bundle** ([click for pricing](https://skaild.com/#pricing)) grants plan + build + ship. Every plugin auto-installs its required dependencies (`superpowers`, `commit-commands`) on install.
