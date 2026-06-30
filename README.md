@@ -1,6 +1,6 @@
 # skAIld marketplace
 
-Claude Code plugin marketplace for **skAIld** — disciplined AI dev workflows for Claude Code, from The Elite Council.
+Claude Code plugin marketplace for **skAIld** — disciplined AI dev workflows for Claude Code.
 
 ## Install
 
