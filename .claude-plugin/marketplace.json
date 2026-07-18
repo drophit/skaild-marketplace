@@ -1,6 +1,8 @@
 {
   "name": "skaild",
-  "owner": "drophit/skaild-marketplace",
+  "owner": {
+    "name": "drophit/skaild-marketplace"
+  },
   "plugins": [
     {
       "name": "skaild-start-4.6",
@@ -58,7 +60,7 @@
     },
     {
       "name": "skaild-build-4.6",
-      "description": "skAIld build + PR workflow for Claude Code (Opus 4.6)",
+      "description": "skAIld — the disciplined build → review → ship loop for Claude. Slash commands you invoke, or Claude reaches for automatically. (Opus 4.6)",
       "source": {
         "source": "github",
         "repo": "drophit/skaild-build",
@@ -67,7 +69,7 @@
     },
     {
       "name": "skaild-build-4.7",
-      "description": "skAIld build + PR workflow for Claude Code (Opus 4.7)",
+      "description": "skAIld — the disciplined build → review → ship loop for Claude. Slash commands you invoke, or Claude reaches for automatically. (Opus 4.7)",
       "source": {
         "source": "github",
         "repo": "drophit/skaild-build",
@@ -76,7 +78,7 @@
     },
     {
       "name": "skaild-build",
-      "description": "skAIld build + PR workflow for Claude Code (Opus 4.8)",
+      "description": "skAIld — the disciplined build → review → ship loop for Claude. Slash commands you invoke, or Claude reaches for automatically. (Opus 4.8)",
       "source": {
         "source": "github",
         "repo": "drophit/skaild-build",
