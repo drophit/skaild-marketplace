@@ -8,8 +8,8 @@
       "name": "skaild",
       "description": "skAIld — the disciplined plan → build → ship loop for Claude Code. Slash commands you invoke, or Claude reaches for automatically.",
       "source": {
-        "source": "github",
-        "repo": "drophit/skaild",
+        "source": "url",
+        "url": "https://github.com/drophit/skaild.git",
         "ref": "v5.0"
       }
     }
