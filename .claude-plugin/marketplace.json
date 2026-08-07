@@ -5,6 +5,33 @@
   },
   "plugins": [
     {
+      "name": "skaild-4.6",
+      "description": "skAIld — the disciplined plan → build → ship loop for Claude Code. Slash commands you invoke, or Claude reaches for automatically.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/drophit/skaild.git",
+        "ref": "v4.6"
+      }
+    },
+    {
+      "name": "skaild-4.7",
+      "description": "skAIld — the disciplined plan → build → ship loop for Claude Code. Slash commands you invoke, or Claude reaches for automatically.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/drophit/skaild.git",
+        "ref": "v4.7"
+      }
+    },
+    {
+      "name": "skaild-4.8",
+      "description": "skAIld — the disciplined plan → build → ship loop for Claude Code. Slash commands you invoke, or Claude reaches for automatically.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/drophit/skaild.git",
+        "ref": "v4.8"
+      }
+    },
+    {
       "name": "skaild",
       "description": "skAIld — the disciplined plan → build → ship loop for Claude Code. Slash commands you invoke, or Claude reaches for automatically.",
       "source": {
