@@ -3,10 +3,11 @@
   "owner": {
     "name": "drophit/skaild-marketplace"
   },
+  "description": "skAIld — the disciplined plan → build → ship loop for Claude Code. One plugin, model-matched: pick the build that matches the Opus you run.",
   "plugins": [
     {
       "name": "skaild-4.6",
-      "description": "skAIld — the disciplined plan → build → ship loop for Claude Code. Slash commands you invoke, or Claude reaches for automatically.",
+      "description": "skAIld — the disciplined plan → build → ship loop for Claude Code. Slash commands you invoke, or Claude reaches for automatically. Tuned for Opus 4.6.",
       "source": {
         "source": "url",
         "url": "https://github.com/drophit/skaild.git",
@@ -15,7 +16,7 @@
     },
     {
       "name": "skaild-4.7",
-      "description": "skAIld — the disciplined plan → build → ship loop for Claude Code. Slash commands you invoke, or Claude reaches for automatically.",
+      "description": "skAIld — the disciplined plan → build → ship loop for Claude Code. Slash commands you invoke, or Claude reaches for automatically. Tuned for Opus 4.7.",
       "source": {
         "source": "url",
         "url": "https://github.com/drophit/skaild.git",
@@ -24,7 +25,7 @@
     },
     {
       "name": "skaild-4.8",
-      "description": "skAIld — the disciplined plan → build → ship loop for Claude Code. Slash commands you invoke, or Claude reaches for automatically.",
+      "description": "skAIld — the disciplined plan → build → ship loop for Claude Code. Slash commands you invoke, or Claude reaches for automatically. Tuned for Opus 4.8.",
       "source": {
         "source": "url",
         "url": "https://github.com/drophit/skaild.git",
@@ -33,7 +34,7 @@
     },
     {
       "name": "skaild",
-      "description": "skAIld — the disciplined plan → build → ship loop for Claude Code. Slash commands you invoke, or Claude reaches for automatically.",
+      "description": "skAIld — the disciplined plan → build → ship loop for Claude Code. Slash commands you invoke, or Claude reaches for automatically. Tuned for Opus 5.",
       "source": {
         "source": "url",
         "url": "https://github.com/drophit/skaild.git",
