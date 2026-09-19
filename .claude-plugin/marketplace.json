@@ -3,7 +3,7 @@
   "owner": {
     "name": "drophit/skaild-marketplace"
   },
-  "description": "skAIld — the disciplined plan → build → ship loop for Claude Code. One plugin, model-matched: pick the build that matches the Opus you run.",
+  "description": "skAIld — the disciplined plan → build → ship loop for Claude Code. One plugin, model-matched: pick the build that matches the model you run.",
   "plugins": [
     {
       "name": "skaild-4.6",
@@ -39,6 +39,15 @@
         "source": "url",
         "url": "https://github.com/drophit/skaild.git",
         "ref": "v5.0"
+      }
+    },
+    {
+      "name": "skaild-fable-5.1",
+      "description": "skAIld — the disciplined plan → build → ship loop for Claude Code. Slash commands you invoke, or Claude reaches for automatically. Tuned for Fable 5.1.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/drophit/skaild.git",
+        "ref": "vfable-5.1"
       }
     }
   ]
